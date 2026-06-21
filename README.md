@@ -4,7 +4,7 @@
 
 Aplikasi web interaktif berbasis **Streamlit** untuk mengklasifikasikan emosi dari wajah manusia secara real-time. Model deep learning dideploy menggunakan **LiteRT (TensorFlow Lite)** agar proses inferensi berjalan cepat dan ringan, bahkan di lingkungan komputasi terbatas seperti Streamlit Community Cloud.
 
-🔗 **Link Aplikasi:**https://facial-emotion-app-vurt32fsl4fnc4mzdpgmte.streamlit.app/ **
+🔗 **Link Aplikasi:** [face-emotion-app.streamlit.app](https://facial-emotion-app-vurt32fsl4fnc4mzdpgmte.streamlit.app/)
 
 ---
 
