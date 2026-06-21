@@ -77,7 +77,7 @@ Pastikan Anda sudah menginstal Python (disarankan versi 3.10 ke atas) dan `pip`.
 
 1. **Clone repositori ini:**
    ```bash
-   git clone [https://github.com/falah-bit/facial-emotion-app.git](https://github.com/falah-bit/facial-emotion-app.git)
+   git clone https://github.com/falah-bit/facial-emotion-app.git
    cd facial-emotion-classification
    ```
 
