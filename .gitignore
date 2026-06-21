@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Dataset & Zipped Files
+dataset/
+*.zip
+*.tar.gz
+
+*.keras
+*.h5
+hasil_model/saved_model/
+hasil_model/tfjs_model/
+best_face_emotion_model.keras
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Plot & Image outputs (Opsional, hapus pagar jika ingin di-ignore)
+training_history_face_emotion.png
+confusion_matrix_face_emotion.png
